@@ -43,4 +43,4 @@ __screenshots__/
 Thumbs.db
 
 # Local system setting files
-package-lock.json
+#package-lock.json
